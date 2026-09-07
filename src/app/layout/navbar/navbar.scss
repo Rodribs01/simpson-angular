@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+    background-color: #FED90F;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+    .item:hover{
+        color: black;
+    }
+}
